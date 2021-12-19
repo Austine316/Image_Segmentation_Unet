@@ -1,4 +1,4 @@
-# Image_Segmentation_Unet
+# Image Segmentation Unet
 
 
 Semantic image segmentation predicts precise mask for each object in an image by labeling each pixel in the image with its corresponding class. 
